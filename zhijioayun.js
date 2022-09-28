@@ -1086,7 +1086,7 @@ overflow: hidden;
                     $contentLeft.find(".user-name").text(res.UserName);
                     $contentLeft.find(".stuNum").text(res.stuNo);
                     Console(`[${res.disPlayName}]用户您好，欢迎━(*｀∀´*)ノ亻!使用本脚本，正在持续更新中。`)
-                    Console(`该脚本目前已更新为2.0版本,点我<a href="https://github.com/xiaoshengbao/mezhijiaoyun">转跳</a>进行体验，如遇bug请邮箱提交或者qq临时会话，不用添加好友`);
+                    Console(`Github仓库请点击<a href="https://github.com/xiaoshengbao/mezhijiaoyun">转跳</a>进行体验，如遇bug禁止狗叫`);
                 }
             } catch (e) {
                 alert(`获取用户信息失败,请登录后再执行该脚本！`);
