@@ -3,7 +3,7 @@
 ## 引用代码为：
 
 let $dom=document.createElement("script");
-$dom.setAttribute("src", "https://cdn.jsdelivr.net/gh/xiaoshengbao/mezhijiaoyun@main/zhijioayun.js");
+$dom.setAttribute("src", "https://cdn.jsdelivr.net/gh/xiaoshengbao/mezhijiaoyun@main/zhijioayunshuake.js");
 document.body.appendChild($dom);
 
 ## 复制以上代码，登录职教云，然后打开浏览器中的控制台（按f12进入），粘贴然后回车即可。
